@@ -1,6 +1,6 @@
 ---
 title: "IE7275 Case Study"
-author: "Omkar Kalange, Vineet Reddy"
+author: "Vineet Reddy, Omkar"
 date: "3/21/2020"
 output:
   html_document:
